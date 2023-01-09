@@ -1,0 +1,49 @@
+.footerSection {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  height: fit-content;
+  background-color: black;
+}
+
+.footerContainer {
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.footerPictureContainer {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.footerPicture {
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.footerSocialContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+#linkdin {
+  max-width: 65px;
+  margin-left: 0.5rem;
+}
+
+#github {
+  max-width: 50px;
+  margin-right: 0.5rem;
+}
+
+.footerCopyRight {
+  padding: 5px;
+}
+
+.copyRight {
+  color: white;
+}

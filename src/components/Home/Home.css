@@ -1,0 +1,78 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  font-family: "eurostile", sans-serif;
+  color: #141c3a;
+}
+
+.homeSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  flex-grow: 1;
+  flex-shrink: 0;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  padding: 3rem 1.5rem;
+  background-color: rgba(255, 0, 0, 0);
+}
+
+.homeHeader {
+  font-size: 2.5rem;
+  padding: 10px;
+}
+
+.homeSubHeader {
+  max-width: 700px;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.avatar {
+  max-width: 500px;
+  margin: 70px auto;
+}
+
+.resumeDiv {
+  background: #000;
+  width: fit-content;
+  padding: 1em;
+}
+
+.resume {
+  max-width: fit-content;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: transparent;
+  letter-spacing: 0.15em;
+  text-decoration: none;
+}
+
+.resume:after {
+  position: relative;
+  display: block;
+  content: "";
+  width: 0;
+  height: 2px;
+  background: none repeat scroll 0 0 transparent;
+  background: #fff;
+  left: 50%;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+}
+.resume:hover:after {
+  width: 100%;
+  left: 0;
+}
