@@ -9,7 +9,7 @@ export const PORTFOLIO_DESCRIPTION1 =
   "The amazing website that you are currently viewing which is currently being hosted on Github pages.";
 export const PORTFOLIO_TECH = "ReactJS, HTML, CSS";
 export const PORTFOLIO_GITHUB_LINK =
-  "https://github.com/0xme10/Portfolio_Website";
+  "https://github.com/0xme10/Portfolio-Website";
 
 
 // EMOGO Emotion Detection Constants
