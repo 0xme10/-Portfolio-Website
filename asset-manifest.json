@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.61a02553.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.1fdbca98.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.1fdbca98.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.ec12c685.js",
+    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.ec12c685.js.map",
+    "static/js/2.9e892fea.chunk.js": "/Portfolio-Website/static/js/2.9e892fea.chunk.js",
+    "static/js/2.9e892fea.chunk.js.map": "/Portfolio-Website/static/js/2.9e892fea.chunk.js.map",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/css/main.61a02553.chunk.css.map": "/Portfolio-Website/static/css/main.61a02553.chunk.css.map",
+    "static/js/2.9e892fea.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.9e892fea.chunk.js.LICENSE.txt",
+    "static/media/AMLOGO.c42ac61c.png": "/Portfolio-Website/static/media/AMLOGO.c42ac61c.png",
+    "static/media/DSD.b5545f0d.svg": "/Portfolio-Website/static/media/DSD.b5545f0d.svg",
+    "static/media/DSP.b12b55d5.svg": "/Portfolio-Website/static/media/DSP.b12b55d5.svg",
+    "static/media/DTMF.35f7c44e.jpg": "/Portfolio-Website/static/media/DTMF.35f7c44e.jpg",
+    "static/media/EMOGO.f54c8f11.png": "/Portfolio-Website/static/media/EMOGO.f54c8f11.png",
+    "static/media/PORTFOLIO.1f7c3696.png": "/Portfolio-Website/static/media/PORTFOLIO.1f7c3696.png",
+    "static/media/RDBMS.50ca9273.png": "/Portfolio-Website/static/media/RDBMS.50ca9273.png",
+    "static/media/Resume-Ali-Public.d57c06b4.pdf": "/Portfolio-Website/static/media/Resume-Ali-Public.d57c06b4.pdf",
+    "static/media/c++-icon.48ad2ff0.svg": "/Portfolio-Website/static/media/c++-icon.48ad2ff0.svg",
+    "static/media/covidData.1da3e523.jpg": "/Portfolio-Website/static/media/covidData.1da3e523.jpg",
+    "static/media/git-icon.43d387b7.svg": "/Portfolio-Website/static/media/git-icon.43d387b7.svg",
+    "static/media/html-5-icon.c1bb84e0.svg": "/Portfolio-Website/static/media/html-5-icon.c1bb84e0.svg",
+    "static/media/javascript-icon.081325c6.svg": "/Portfolio-Website/static/media/javascript-icon.081325c6.svg",
+    "static/media/linkedin-icon-white.f62209d7.svg": "/Portfolio-Website/static/media/linkedin-icon-white.f62209d7.svg",
+    "static/media/matlab-icon.27c7151a.svg": "/Portfolio-Website/static/media/matlab-icon.27c7151a.svg",
+    "static/media/my-avatar.9889dc82.png": "/Portfolio-Website/static/media/my-avatar.9889dc82.png",
+    "static/media/mysql-icon.c9286640.svg": "/Portfolio-Website/static/media/mysql-icon.c9286640.svg",
+    "static/media/profilePic.24fb382c.jpeg": "/Portfolio-Website/static/media/profilePic.24fb382c.jpeg",
+    "static/media/python-icon.026a6268.svg": "/Portfolio-Website/static/media/python-icon.026a6268.svg",
+    "static/media/react-icon.d725aebe.svg": "/Portfolio-Website/static/media/react-icon.d725aebe.svg",
+    "static/media/redux-icon.0a4a6ca2.svg": "/Portfolio-Website/static/media/redux-icon.0a4a6ca2.svg",
+    "static/media/visual-studio-code-icon.c95ccce2.svg": "/Portfolio-Website/static/media/visual-studio-code-icon.c95ccce2.svg",
+    "static/media/windows-icon.bcc8e04a.svg": "/Portfolio-Website/static/media/windows-icon.bcc8e04a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec12c685.js",
+    "static/js/2.9e892fea.chunk.js",
+    "static/css/main.61a02553.chunk.css",
+    "static/js/main.1fdbca98.chunk.js"
+  ]
+}
