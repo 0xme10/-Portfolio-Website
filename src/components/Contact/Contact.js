@@ -1,27 +1,19 @@
-import React, { useRef } from "react";
+import React, { useRef } from 'react';
 import "./Contact.css";
 import emailjs from "@emailjs/browser";
 
-const Contact = () => {
+export const Contact = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
-    emailjs
-      .sendForm(
-        "service_sumgi5n",
-        "template_ecnyda2",
-        form.current,
-        "90jVblaN1ewpUM-Yz"
-      )
-      .then(
-        (result) => {
+
+    emailjs.sendForm('service_jnf0tlk', 'template_q8rvb08', form.current, '90jVblaN1ewpUM-Yz')
+      .then((result) => {
           console.log(result.text);
-        },
-        (error) => {
+      }, (error) => {
           console.log(error.text);
-        }
-      );
+      });
   };
 
   return (
